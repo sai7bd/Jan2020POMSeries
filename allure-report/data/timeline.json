@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SFK9CP8",
+    "children" : [ {
+      "name" : "16492@DESKTOP-SFK9CP8.main(1)",
+      "children" : [ {
+        "name" : "verify app login test",
+        "uid" : "59e2e22f197ea7f8",
+        "parentUid" : "ae329334aaf188c0a970735ab87f2ec4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1586486680901,
+          "stop" : 1586486683984,
+          "duration" : 3083
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login_InvalidTestCases",
+        "uid" : "8a08e4cc2f03b050",
+        "parentUid" : "ae329334aaf188c0a970735ab87f2ec4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1586486647281,
+          "stop" : 1586486647281,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "2f15bff8d02ff9a9",
+        "parentUid" : "ae329334aaf188c0a970735ab87f2ec4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586486660269,
+          "stop" : 1586486680547,
+          "duration" : 20278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "97aa76601a333760",
+        "parentUid" : "ae329334aaf188c0a970735ab87f2ec4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586486680870,
+          "stop" : 1586486680901,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ae329334aaf188c0a970735ab87f2ec4"
+    } ],
+    "uid" : "b2f6d61ffc7211591408c9ea04ad1a81"
+  } ]
+}

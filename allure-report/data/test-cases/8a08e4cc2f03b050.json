@@ -1,0 +1,68 @@
+{
+  "uid" : "8a08e4cc2f03b050",
+  "name" : "login_InvalidTestCases",
+  "fullName" : "com.qa.hubspot.tests.LoginPageTest.login_InvalidTestCases",
+  "historyId" : "9858d24c9f24f2a4b2a19f103caf8c66",
+  "time" : {
+    "start" : 1586486647281,
+    "stop" : 1586486647281,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "login_InvalidTestCases"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Hubspot App Regression Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Regression Functional Regression Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.hubspot.tests.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SFK9CP8"
+  }, {
+    "name" : "thread",
+    "value" : "16492@DESKTOP-SFK9CP8.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "US - 1001 : create features for login with signup, title and login"
+  }, {
+    "name" : "epic",
+    "value" : "Epic - 101 : define login feature for hubpot application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a08e4cc2f03b050.json",
+  "parameterValues" : [ ]
+}

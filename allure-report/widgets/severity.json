@@ -1,0 +1,41 @@
+[ {
+  "uid" : "59e2e22f197ea7f8",
+  "name" : "verify app login test",
+  "time" : {
+    "start" : 1586486680901,
+    "stop" : 1586486683984,
+    "duration" : 3083
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2f15bff8d02ff9a9",
+  "name" : "verifySignUpLinkTest",
+  "time" : {
+    "start" : 1586486660269,
+    "stop" : 1586486680547,
+    "duration" : 20278
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "8a08e4cc2f03b050",
+  "name" : "login_InvalidTestCases",
+  "time" : {
+    "start" : 1586486647281,
+    "stop" : 1586486647281,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "97aa76601a333760",
+  "name" : "verifyLoginPageTitleTest",
+  "time" : {
+    "start" : 1586486680870,
+    "stop" : 1586486680901,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
